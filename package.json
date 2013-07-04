@@ -1,0 +1,11 @@
+{
+  "name": "fs-traverse",
+  "version": "0.0.1",
+  "description": "Utility functions to recursively traverse directories (asynchronously and synchronously) triggering the provided callback (optionally filtering filenames by a regex)",
+  "keywords": ["walk", "fs", "filesystem", "traverse", "directory", "filter", "sync", "async"],
+  "author": "Tarun Chaudhry <tarunc92@gmail.com>",
+  "repository": { "type": "git", "url": "git://github.com/tarunc/fs-traverse.git" },
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "index"
+}
